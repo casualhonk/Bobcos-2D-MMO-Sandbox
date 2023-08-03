@@ -1,2 +1,2 @@
 # bobcos
-this is old bobcos (blockia) source code
+You cant use it as your own only contruibute it
