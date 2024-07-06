@@ -55,9 +55,9 @@ This project is licensed under the terms of the MIT license.
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to reach out.
-discord: phoave
-twitter: @neris_phoave
+## If you have any questions or need further assistance, please feel free to reach out.
+## discord: phoave
+## twitter: @neris_phoave
  
 ## Happy coding!
 kind regards neris
