@@ -8,7 +8,7 @@ Bobcos is a project that was initially developed with a vision of creating an en
 
 ## Contribution Guidelines
 
-- **Use Policy**: You are welcome to contribute to Bobcos, but please do not use this code to create your own projects or claim it as your own.
+- **Use Policy**: You are welcome to use  to Bobcos as your own project but dont say you made it your self.
 - **Contributions**: We appreciate any contributions to improve the game. Please follow the guidelines below when contributing:
   - Fork the repository.
   - Create a new branch for your feature or bugfix.
