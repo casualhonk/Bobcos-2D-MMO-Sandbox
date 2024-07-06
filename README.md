@@ -17,7 +17,7 @@ Bobcos is a project that was initially developed with a vision of creating an en
 
 ## Getting Started
 
-### Unity Project
+### Unity Bobcos Clinet
 
 1. **Clone the repository**:
     ```sh
@@ -31,11 +31,11 @@ Bobcos is a project that was initially developed with a vision of creating an en
 3. **Install any required packages**:
     - Unity should prompt you to install any missing packages. Follow the prompts to install them.
 
-### C# Console Project
+### Bobcos Server
 
 1. **Navigate to the console project directory**:
     ```sh
-    cd bobcos/ConsoleProject
+    cd bobcos/BobcosServer
     ```
 
 2. **Create a new solution**:
