@@ -1,4 +1,3 @@
-
 # Bobcos
 
 Welcome to the open-sourced version of Bobcos! 
@@ -39,12 +38,22 @@ Bobcos is a project that was initially developed with a vision of creating an en
     cd bobcos/ConsoleProject
     ```
 
-2. **Restore dependencies**:
+2. **Create a new solution**:
+    ```sh
+    dotnet new sln -n BobcosConsoleSolution
+    ```
+
+3. **Add the project to the solution**:
+    ```sh
+    dotnet sln BobcosConsoleSolution.sln add BobcosConsoleProject.csproj
+    ```
+
+4. **Restore dependencies**:
     ```sh
     dotnet restore
     ```
 
-3. **Run the console project**:
+5. **Run the console project**:
     ```sh
     dotnet run
     ```
@@ -55,9 +64,12 @@ This project is licensed under the terms of the MIT license.
 
 ## Contact
 
-## If you have any questions or need further assistance, please feel free to reach out.
-## discord: phoave
-## twitter: @neris_phoave
- 
+If you have any questions or need further assistance, please feel free to reach out through the following channels:
+
+- **Discord**: phoave
+- **Twitter**: [@neris_phoave](https://twitter.com/neris_phoave)
+
 ## Happy coding!
-kind regards neris
+
+Kind regards,  
+Neris
