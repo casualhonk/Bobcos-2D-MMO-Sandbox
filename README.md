@@ -17,7 +17,7 @@ Bobcos is a project that was initially developed with a vision of creating an en
 
 ## Getting Started
 
-### Unity Bobcos Clinet
+### Unity Bobcos Client
 
 1. **Clone the repository**:
     ```sh
