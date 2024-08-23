@@ -1,0 +1,15 @@
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.csproj.AssemblyReference.cache
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.AssemblyInfoInputs.cache
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.AssemblyInfo.cs
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.csproj.CoreCompileInputs.cache
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\bin\Debug\net6.0\bobcos6server.exe
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\bin\Debug\net6.0\bobcos6server.deps.json
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\bin\Debug\net6.0\bobcos6server.runtimeconfig.json
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\bin\Debug\net6.0\bobcos6server.dll
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\bin\Debug\net6.0\bobcos6server.pdb
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.dll
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\refint\bobcos6server.dll
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.pdb
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\bobcos6server.genruntimeconfig.cache
+C:\Users\poptr\Pictures\bobcos\bobcos-server\bobcos6server\obj\Debug\net6.0\ref\bobcos6server.dll
